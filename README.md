@@ -73,7 +73,6 @@ webport/
 │   │   ├── Experience.jsx
 │   │   ├── Projects.jsx
 │   │   ├── Skills.jsx
-│   │   ├── Photography.jsx
 │   │   └── Contact.jsx
 │   ├── App.jsx
 │   ├── main.jsx

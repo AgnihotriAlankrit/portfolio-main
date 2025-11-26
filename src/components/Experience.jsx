@@ -28,44 +28,44 @@ const Experience = () => {
 
   const experiences = [
     {
-      company: 'Deutsche Bank',
-      role: 'Analyst Intern',
-      date: 'July 2023 – Dec 2023',
+      company: 'Havells',
+      role: 'Intern',
+      date: 'June 2025 – July 2025',
       achievements: [
         {
-          text: 'Led month-end reconciliation optimization through stakeholder analysis and root-cause investigation, reducing close time by ',
-          highlight: '2+ hours',
+          text: 'Conducted extensive field research across 200+ retail outlets in Tier-2/3 cities (Allahabad, Jhansi, Lalitpur, Orai, Jalaun, Farrukhabad) to identify potential Distributors and dealers through direct interaction with retailers',
+          highlight: ' ',
           suffix: ''
         },
         {
-          text: 'Partnered cross-functionally to resolve approx. ',
-          highlight: '$18B',
-          suffix: ' in feed discrepancies via data stewardship solutions, boosting accuracy'
+          text: 'Evaluated product-market fit of Havells Smart Home solutions for urban and semi-urban consumers ',
+          highlight: ' ',
+          suffix: ' '
         },
         {
-          text: 'Enhanced Python automation to integrate four data feeds, cutting runtime by ',
-          highlight: '40 minutes',
-          suffix: ' and enabling faster reporting'
+          text: 'Designed Go-to-Market (GTM) recommendations including channel incentive , dealer workshops, Actionable strategies and sugesstions ',
+          highlight: '',
+          suffix: ' '
         },
         {
-          text: 'Engineered SQL validation queries to eliminate data anomalies and automated stakeholder reporting workflows',
+          text: ' ',
           highlight: null
         },
       ]
     },
     {
-      company: 'Indira Gandhi Centre for Atomic Research (IGCAR)',
-      role: 'Research Analyst Intern',
-      date: 'May 2022 – July 2022',
+      company: 'Accenture',
+      role: 'Application Development Associate',
+      date: 'September 2022 – December 2022',
       achievements: [
         {
-          text: 'Analyzed concrete testing inefficiencies using Excel, pivot tables, and statistical control charts to identify production bottlenecks',
+          text: 'Completed structured training on Java, web technologies, and database management systems as part of the onboarding process. Gained hands-on experience in application development, database design, and system architecture. Worked on mini-projects simulating real-world business scenarios, enhancing problem-solving and analytical skills.',
           highlight: null
         },
         {
-          text: 'Synthesized insights from ',
-          highlight: '200+',
-          suffix: ' data points and delivered process optimization recommendations to stakeholders'
+          text: '',
+          highlight: ' ',
+          suffix: ' '
         },
       ]
     }
