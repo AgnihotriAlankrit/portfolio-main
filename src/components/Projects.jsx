@@ -27,13 +27,13 @@ const Projects = () => {
 
   const projects = [
     {
-      name: 'CheQ x NextLeap Product Challenge',
-      description: 'Suggested UI, reward, and education changes that made the feature easier to find and more rewarding to use.',
-      outcome: 'To increase use of the "Pay Together" feature on CheQ.',
+      name: 'The Product Sprints x HBTU',
+      description: 'Uber for 50+ Users – Enhancing Accessibility and Ease of Use.',
+      outcome: 'Redesigned Uber app users aged 50 years and above. Many in this demographic find it difficult to book rides independently, often due to UI complexity, unclear flow, or lack of digital familiarity..',
       outcomeSuffix: '',
-      tags: ['Product Critique', 'Feature Prioritization', 'User Personas', 'Wireframe'],
-      image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop',
-      pdfPath: '/product_decks/Phase1_Phase2_CheQ_Nextleap_Ak.pdf'
+      tags: ['App Redesign', 'Product Design', 'Prototype', 'UX', 'User Personas', 'Wireframe','Figma'],
+      image: 'https://cn-geo1.uber.com/image-proc/crop/resizecrop/udam/format=auto/width=533/height=300/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC91ZGFtLWFzc2V0cy8wMWQ1YTZhNC0xOWIyLTRiYjUtOGI3ZC1mNGU2OGZlNjFmNjMucG5n',
+      pdfPath: '/Alankrit Agnihotri (HBTU x The Product Sprints.pdf'
     },
     {
       name: 'BeyondIRR (APM Assignment)',
@@ -79,22 +79,6 @@ const Projects = () => {
       tags: ['Feature Prioritization', 'UX Design', 'Success Metrics'],
       image: 'https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=600&h=400&fit=crop',
       pdfPath: '/product_decks/Splitwise Product deck.pdf'
-    },
-    {
-      name: 'Sports Retail Analysis',
-      description: 'Analyzed 3,000+ SKUs using SQL to classify products and identify revenue opportunities.',
-      outcome: 'Discover insights',
-      outcomeSuffix: ' from sales data.',
-      tags: ['SQL', 'Data Analysis'],
-      image: 'https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&h=400&fit=crop'
-    },
-    {
-      name: 'Hospitality BI Dashboard',
-      description: 'Built a Power BI dashboard showing key metrics like bookings, revenue, and cancellations to help plan better pricing and reduce losses.',
-      outcome: 'Track and improve hotel performance',
-      outcomeSuffix: ' through data.',
-      tags: ['Power BI', 'Data Visualization'],
-      image: 'https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=600&h=400&fit=crop'
     },
     {
       name: 'Business Strategy Analysis',
