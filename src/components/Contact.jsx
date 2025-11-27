@@ -58,7 +58,7 @@ const Contact = () => {
     },
     {
       icon: <FaInstagram />,
-      href: 'https://www.instagram.com/snapitastic',
+      href: 'https://www.instagram.com',
       label: 'Instagram'
     },
   ]

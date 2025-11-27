@@ -45,22 +45,12 @@ const Projects = () => {
       pdfPath: '/product_decks/BeyondIRR_APM_Assignment_AlankritAgnihotri.pdf'
     },
     {
-      name: 'MoveInSync (Product Deck)',
-      description: 'Suggested HRMS integration, automated confirmations, and incentive-based systems to enhance punctuality and reliability.',
-      outcome: 'Increase on-time arrivals for employee commutes.',
-      outcomeSuffix: '',
-      tags: ['Eisenhower Matrix'],
-      image: 'https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=600&h=400&fit=crop',
-      pdfPath: '/product_decks/MoveInSync product deck.pdf'
-    },
-    {
       name: 'Just Do It App',
       description: 'Tried building a minimal to-do app on Lovable, with AI tagging, reminders, and streaks to help users stay organized and consistent.',
       outcome: 'Build a clean and intelligent task management experience.',
       outcomeSuffix: '',
       tags: ['Product Design', 'Prototype', 'UX', 'Lovable'],
       image: 'https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=600&h=400&fit=crop',
-      pdfPath: '/product_decks/Just-do-it-App-Lovable.pdf'
     },
     {
       name: 'CricBuzz (Product Deck)',
@@ -70,15 +60,6 @@ const Projects = () => {
       tags: ['RICE Framework', 'User Persona', 'Metrics'],
       image: 'https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=600&h=400&fit=crop',
       pdfPath: '/product_decks/CricBuzz Product deck.pdf'
-    },
-    {
-      name: 'SplitWise (Product Deck)',
-      description: 'Making expense splitting simpler and more fun.',
-      outcome: 'Enhanced UX',
-      outcomeSuffix: ' & user retention',
-      tags: ['Feature Prioritization', 'UX Design', 'Success Metrics'],
-      image: 'https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=600&h=400&fit=crop',
-      pdfPath: '/product_decks/Splitwise Product deck.pdf'
     },
     {
       name: 'Business Strategy Analysis',
