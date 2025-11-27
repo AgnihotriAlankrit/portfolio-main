@@ -33,7 +33,7 @@ const Projects = () => {
       outcomeSuffix: '',
       tags: ['App Redesign', 'Product Design', 'Prototype', 'UX', 'User Personas', 'Wireframe','Figma'],
       image: 'https://cn-geo1.uber.com/image-proc/crop/resizecrop/udam/format=auto/width=533/height=300/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC91ZGFtLWFzc2V0cy8wMWQ1YTZhNC0xOWIyLTRiYjUtOGI3ZC1mNGU2OGZlNjFmNjMucG5n',
-      pdfPath: '/Alankrit Agnihotri (HBTU x The Product Sprints.pdf'
+      pdfPath: '/product_decks/Alankrit Agnihotri HBTU x The Product Sprints.pdf'
     },
     {
       name: 'BeyondIRR (APM Assignment)',
